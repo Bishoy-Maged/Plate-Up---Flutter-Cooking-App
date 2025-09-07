@@ -1,4 +1,5 @@
 🍽️ Plate Up
+
 Plate Up is a Flutter mobile application that helps users explore, view, and manage recipes in a clean and intuitive interface. The app follows the MVVM (Model–View–ViewModel) architecture and uses Provider for efficient state management. Recipes are stored in Firebase Firestore, making the app scalable and cloud-based.
 
 ✨ Features:
