@@ -94,5 +94,3 @@ flutter run
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Would you like me to also **add badges** at the top (like Flutter version, license, Firebase, Provider, etc.) to make it look even more professional?
